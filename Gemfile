@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+
+#Taggable
+gem 'acts-as-taggable-on'
 #Using devise for authentication
 gem 'devise'
 #Form styling
